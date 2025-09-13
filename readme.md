@@ -18,8 +18,8 @@ This project is a **machine learning-based application** that predicts the **Air
 ## 🛠 Installation & Usage  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/aslin72/AGE_GENDER_DETECTION.git
-   cd AGE_GENDER_DETECTION
+   git clone https://github.com/Nayana739/AQI-PROJECT.git
+   cd AQI-PROJECT
    ```  
 2. **Install dependencies**  
    ```bash
