@@ -1,4 +1,4 @@
-# Air Quality Indecx Prediction 
+# Air Quality Index Prediction using Random Forest Regressor
 
 ## 📌 Project Overview  
 This project is a **machine learning-based application** that predicts the **Air Quality Index (AQI)** for a location based on key pollutant levels using a **Random Forest Regressor**. It includes **data preprocessing, model training, evaluation, and a REST API built with FastAPI**. 
