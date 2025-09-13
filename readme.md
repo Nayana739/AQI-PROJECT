@@ -52,5 +52,5 @@ This model is a **baseline Random Forest Regressor**. Improvements can include:
 - Incorporating **more pollutant features or meteorological data**
 
 ## 🤝 Contributions  
-Feel free to **fork**, **improve**, and **contribute**!  
+Contributions are welcome! Fork the repository, create a branch, and submit a pull request. 
 
