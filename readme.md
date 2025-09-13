@@ -14,6 +14,9 @@ This project is a **machine learning-based application** that predicts the **Air
 - `appp.py` → FastAPI application for AQI predictions
 - `AQI-and-Lat-Long-of-Countries.csv` → Dataset used for training
 - `requirements.txt` → List of dependencies
+- `predictAQI.ipynb` → Jupyter Notebook for exploring data, training the model, and testing AQI predictions.
+
+__pycache__ → Automatically generated folder storing Python bytecode files for faster execution.
 
 ## 🛠 Installation & Usage  
 1. **Clone the repository**  
