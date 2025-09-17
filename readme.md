@@ -35,6 +35,7 @@ __pycache__ → Automatically generated folder storing Python bytecode files for
 4. **Use the API**
 
 - Visit http://127.0.0.1:8000/docs → to access the interactive Swagger UI.
+- Link to deployed platform on Render https://aqi-fastapi-h5vx.onrender.com/docs
 - Send a POST request to /predict with JSON payload:
 ```bash
 {
