@@ -30,7 +30,7 @@ __pycache__ → Automatically generated folder storing Python bytecode files for
    ```  
 3. **Run the FASTAPI app**  
    ```bash
-   uvicorn main:app --reload
+   uvicorn appp:app --reload
    ```  
 4. **Use the API**
 
